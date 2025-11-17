@@ -1,0 +1,30 @@
+======================================================================
+RosettaML Bootcamp 2025 - HW2 Verification Results
+======================================================================
+
+Student Name: Joe Laforet Jr.
+Timestamp: 2025-11-16T16:17:40.373402
+Python Version: 3.11.14 | packaged by conda-forge | (main, Oct 22 2025, 22:46:25) [GCC 14.3.0]
+Platform: Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.35
+
+Installation Checks:
+----------------------------------------------------------------------
+
+PYMOL:
+  Installed: False
+  Error: Command 'pymol' not found or not working
+
+VSCODE:
+  Installed: True
+  Version: 1.105.1
+7d842fb85a0275a4a8e4d7e040d2625abbf7f084
+x64
+
+File Checks:
+----------------------------------------------------------------------
+  1ubq_session.pse: Present
+  1ubq_visualization.png: Present
+
+======================================================================
+STATUS: SOME CHECKS FAILED ✗
+======================================================================
