@@ -59,7 +59,7 @@ def main():
 
     results = {
         'timestamp': datetime.now().isoformat(),
-        'student_name': 'REPLACE_WITH_YOUR_NAME',
+        'student_name': 'Joe Laforet Jr.',
         'python_version': sys.version,
         'platform': platform.platform(),
         'checks': {}
